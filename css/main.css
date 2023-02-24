@@ -173,7 +173,7 @@ margin-left: 9px;
     background-image: url(../imgs/image\ 2.png);
     background-repeat: no-repeat;
     margin: 0 129px 226px 132px;
-    padding: 533.27px 262.5px 41.62px 264.5px;
+    padding: 333.27px 262.5px 41.62px 264.5px;
     position: relative;
     
 }
@@ -250,6 +250,7 @@ margin-left: 9px;
 .img-culture{
     object-fit: none;
     object-position: right top;
+    max-width:100%;
     
 }
 .culture-blog-title{
